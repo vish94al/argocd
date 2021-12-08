@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
         - name: dizvik
-          image: dizvikvishal/argoci:latest
+          image: dizvikvishal/argoci
           ports:
             - containerPort: 80
